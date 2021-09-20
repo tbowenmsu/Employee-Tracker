@@ -29,7 +29,7 @@
   npm start
   ```
   **Please be aware you will need to add your own MySQL password to the db/connection.js file in order for this application to run correctly.**
-  
+
   ## Questions
   If you have any questions about the repo please contact me at taylor.p.bowen@gmail.com. 
   You can find more of my work at [tbowenmsu](https://github.com/tbowenmsu/).
